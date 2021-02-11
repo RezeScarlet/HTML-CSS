@@ -1,0 +1,25 @@
+body {
+    background-color: rgb(29, 29, 29);
+    margin: auto;
+    width: 50%;
+}
+aside {
+    text-align: left;
+    border-style: outset;
+    width: 400px;
+    display: block;
+    border-color: rgb(88, 88, 88);
+    background-color:rgb(58, 58, 58);
+    color: whitesmoke;
+}
+h1 {
+    text-align: center;
+    border-style: solid;
+    width: 300px;
+    border-radius: 18px;
+    border-color: rgb(4, 0, 255);
+    background-color: rgb(29, 181, 241);   
+}
+a {
+    color: hotpink;
+}
